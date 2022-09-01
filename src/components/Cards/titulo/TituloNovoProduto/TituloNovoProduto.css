@@ -1,0 +1,41 @@
+.TodosProdutos{
+  display: flex;
+  justify-content: space-between;
+  margin: 0px 174px;
+  padding: 0px 0px;
+}
+
+.TodosProdutos button{
+  margin: 19px 164px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 16px;
+  gap: 10px;
+  width: 164px;
+  height: 51px;
+  background-color: #2A7AE4;
+  border: none;
+}
+.TodosProdutos h3{
+  width: 282px;
+  height: 38px;
+  font-weight: 700;
+  font-size: 32px;
+  line-height: 38px;
+  color: #464646;
+}
+.TodosProdutos_Link{
+  text-decoration: none;
+}
+
+@media (max-width:768px) {
+  .TodosProdutos{
+    width: 768px;
+    margin: 0px 31px;
+  }
+  .TodosProdutos button{
+    margin: 19px -140px;
+  }
+}

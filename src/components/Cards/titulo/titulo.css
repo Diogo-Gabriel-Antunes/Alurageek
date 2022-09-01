@@ -1,0 +1,30 @@
+
+
+.titulo__h3{
+  width: 148px;
+  height: 38px;
+  font-weight: 700;
+  font-size: 32px;
+  line-height: 38px;
+  color: #464646;
+}
+
+.titulo_titulo{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 0px 400px 0px 176px;
+  
+}
+
+@media (max-width: 768px) {
+  .titulo__h3{
+    width: 103px;
+    height: 26px;
+    font-size: 22px;
+    line-height: 26px;
+  }
+  .titulo_titulo{
+    margin: 0px 0px 0px 32px;
+  }
+}

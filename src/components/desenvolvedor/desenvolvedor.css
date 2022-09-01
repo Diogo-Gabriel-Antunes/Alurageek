@@ -1,0 +1,26 @@
+.desenvolvedor{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 22px 0px;
+  gap: 10px;
+  width: 100%;
+  height: 4px;
+  background-color: #ffffff;
+}
+
+.desenvolvedor p {
+  margin-bottom: -20px;
+}
+
+@media (max-width:768px) {
+  .desenvolvedor{
+    width: 768px;
+    height: 10px;
+  }
+  .desenvolvedor p{
+    margin: 0;
+  }
+  
+}

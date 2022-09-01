@@ -1,0 +1,46 @@
+.card{
+  margin-left: 176px;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
+  margin-right: 270px;
+  
+}
+
+.card_NomeProduto{
+  width: 176px;
+  height: 16px;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
+  color: #464646;
+  padding-top: 8px;
+}
+
+.card_preco{
+  width: 176px;
+  height: 19px;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 19px;
+  color: #464646;
+}
+.card_verProduto{
+  
+Font-style: Bold;
+Font-size: 16px;
+line-height: 19px;
+line-height: 100%;
+text-align: Left;
+vertical-align: Top;
+}
+
+@media (max-width:768px) {
+  .card{
+    margin-left: 32px;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 150px;
+    padding-bottom: -50px;
+  }
+}

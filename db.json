@@ -1,0 +1,263 @@
+{
+  "console":[{
+    "id":1,
+    "categoria":"console",
+    "nome":"Controle XYZ",
+    "preco":"R$ 60,00",
+    "imagem":"/assets/cards/Consoles/console1.svg",
+    "descricao":"Qualquer descrição"
+  },{
+    "id":2,
+    "categoria":"console",
+    "nome":"Controle e console XYZ",
+    "preco":"R$ 60,00",
+    "imagem":"/assets/cards/Consoles/console2.svg",
+    "descricao":"Qualquer descrição"
+  },{
+    "id":3,
+    "categoria":"console",
+    "nome":"Console XYZ",
+    "preco":"R$ 60,00",
+    "imagem":"/assets/cards/Consoles/console3.svg",
+    "descricao":"Qualquer descrição"
+  },{
+    "id":4,
+    "categoria":"console",
+    "nome":"Controle XYZ",
+    "preco":"R$ 60,00",
+    "imagem":"/assets/cards/Consoles/console4.svg",
+    "descricao":"Qualquer descrição"
+  },{
+    "id":5,
+    "categoria":"console",
+    "nome":"Console XYZ",
+    "preco":"R$ 60,00",
+    "imagem":"/assets/cards/Consoles/console5.svg",
+    "descricao":"Qualquer descrição"
+  },{
+    "id":6,
+    "categoria":"console",
+    "nome":"Game Boy Color",
+    "preco":"R$ 60,00",
+    "imagem":"/assets/cards/Consoles/console6.svg",
+    "descricao":"Qualquer descrição"
+  }],
+  "starwars":[{
+    "id":1,
+    "categoria":"starwars",
+    "nome":"Produto XYZ",
+    "preco":"R$ 60,00",
+    "imagem":"/assets/cards/star wars/card1.svg",
+    "descricao":"Qualquer descrição"
+  },{
+    "id":2,
+    "categoria":"starwars",
+    "nome":"Produto XYZ",
+    "preco":"R$ 60,00",
+    "imagem":"/assets/cards/star wars/card2.svg",
+    "descricao":"Qualquer descrição"
+  },{
+    "id":3,
+    "categoria":"starwars",
+    "nome":"Produto XYZ",
+    "preco":"R$ 60,00",
+    "imagem":"/assets/cards/star wars/card3.svg",
+    "descricao":"Qualquer descrição"
+  },{
+    "id":4,
+    "categoria":"starwars",
+    "nome":"Produto XYZ",
+    "preco":"R$ 60,00",
+    "imagem":"/assets/cards/star wars/card4.svg",
+    "descricao":"Qualquer descrição"
+  },{
+    "id":5,
+    "categoria":"starwars",
+    "nome":"Produto XYZ",
+    "preco":"R$ 60,00",
+    "imagem":"/assets/cards/star wars/card5.svg",
+    "descricao":"Qualquer descrição"
+  },{
+    "id":6,
+    "categoria":"starwars",
+    "nome":"Produto XYZ",
+    "preco":"R$ 60,00",
+    "imagem":"/assets/cards/star wars/card6.svg",
+    "descricao":"Qualquer descrição"
+  }],
+  "diversos":[{
+    "id":1,
+    "categoria":"diversos",
+    "nome":"Camisa Atari",
+    "preco":"R$ 60,00",
+    "imagem":"/assets/cards/diversos/diversos1.svg",
+    "descricao":"Qualquer descrição"
+  },{
+    "id":2,
+    "categoria":"diversos",
+    "nome":"Camisa SNES",
+    "preco":"R$ 60,00",
+    "imagem":"/assets/cards/diversos/diversos2.svg",
+    "descricao":"Qualquer descrição"
+  },{
+    "id":3,
+    "categoria":"diversos",
+    "nome":"Controle e console XYZ",
+    "preco":"R$ 60,00",
+    "imagem":"/assets/cards/diversos/diversos3.svg",
+    "descricao":"Qualquer descrição"
+  },{
+    "id":4,
+    "categoria":"diversos",
+    "nome":"Controle e console XYZ",
+    "preco":"R$ 60,00",
+    "imagem":"/assets/cards/diversos/diversos4.svg",
+    "descricao":"Qualquer descrição"
+  },{
+    "id":5,
+    "categoria":"diversos",
+    "nome":"Controle e console XYZ",
+    "preco":"R$ 60,00",
+    "imagem":"/assets/cards/diversos/diversos5.svg",
+    "descricao":"Qualquer descrição"
+  },{
+    "id":6,
+    "categoria":"diversos",
+    "nome":"Controle e console XYZ",
+    "preco":"R$ 60,00",
+    "imagem":"/assets/cards/diversos/diversos6.svg",
+    "descricao":"Qualquer descrição"
+  }],
+
+
+
+  "todosProdutos":[{
+    "id":1,
+    "categoria":"console",
+    "nome":"Controle XYZ",
+    "preco":"R$ 60,00",
+    "imagem":"/assets/cards/Consoles/console1.svg",
+    "descricao":"Qualquer descrição"
+  },{
+    "id":2,
+    "categoria":"console",
+    "nome":"Controle e console XYZ",
+    "preco":"R$ 60,00",
+    "imagem":"/assets/cards/Consoles/console2.svg",
+    "descricao":"Qualquer descrição"
+  },{
+    "id":3,
+    "categoria":"console",
+    "nome":"Console XYZ",
+    "preco":"R$ 60,00",
+    "imagem":"/assets/cards/Consoles/console3.svg",
+    "descricao":"Qualquer descrição"
+  },{
+    "id":4,
+    "categoria":"console",
+    "nome":"Controle XYZ",
+    "preco":"R$ 60,00",
+    "imagem":"/assets/cards/Consoles/console4.svg",
+    "descricao":"Qualquer descrição"
+  },{
+    "id":5,
+    "categoria":"console",
+    "nome":"Console XYZ",
+    "preco":"R$ 60,00",
+    "imagem":"/assets/cards/Consoles/console5.svg",
+    "descricao":"Qualquer descrição"
+  },{
+    "id":6,
+    "categoria":"console",
+    "nome":"Game Boy Color",
+    "preco":"R$ 60,00",
+    "imagem":"/assets/cards/Consoles/console6.svg",
+    "descricao":"Qualquer descrição"
+  },{
+    "id":1,
+    "categoria":"starwars",
+    "nome":"Produto XYZ",
+    "preco":"R$ 60,00",
+    "imagem":"/assets/cards/star wars/card1.svg",
+    "descricao":"Qualquer descrição"
+  },{
+    "id":2,
+    "categoria":"starwars",
+    "nome":"Produto XYZ",
+    "preco":"R$ 60,00",
+    "imagem":"/assets/cards/star wars/card2.svg",
+    "descricao":"Qualquer descrição"
+  },{
+    "id":3,
+    "categoria":"starwars",
+    "nome":"Produto XYZ",
+    "preco":"R$ 60,00",
+    "imagem":"/assets/cards/star wars/card3.svg",
+    "descricao":"Qualquer descrição"
+  },{
+    "id":4,
+    "categoria":"starwars",
+    "nome":"Produto XYZ",
+    "preco":"R$ 60,00",
+    "imagem":"/assets/cards/star wars/card4.svg",
+    "descricao":"Qualquer descrição"
+  },{
+    "id":5,
+    "categoria":"starwars",
+    "nome":"Produto XYZ",
+    "preco":"R$ 60,00",
+    "imagem":"/assets/cards/star wars/card5.svg",
+    "descricao":"Qualquer descrição"
+  },{
+    "id":6,
+    "categoria":"starwars",
+    "nome":"Produto XYZ",
+    "preco":"R$ 60,00",
+    "imagem":"/assets/cards/star wars/card6.svg",
+    "descricao":"Qualquer descrição"
+  },{
+    "id":1,
+    "categoria":"diversos",
+    "nome":"Camisa Atari",
+    "preco":"R$ 60,00",
+    "imagem":"/assets/cards/diversos/diversos1.svg",
+    "descricao":"Qualquer descrição"
+  },{
+    "id":2,
+    "categoria":"diversos",
+    "nome":"Camisa SNES",
+    "preco":"R$ 60,00",
+    "imagem":"/assets/cards/diversos/diversos2.svg",
+    "descricao":"Qualquer descrição"
+  },{
+    "id":3,
+    "categoria":"diversos",
+    "nome":"Controle e console XYZ",
+    "preco":"R$ 60,00",
+    "imagem":"/assets/cards/diversos/diversos3.svg",
+    "descricao":"Qualquer descrição"
+  },{
+    "id":4,
+    "categoria":"diversos",
+    "nome":"Controle e console XYZ",
+    "preco":"R$ 60,00",
+    "imagem":"/assets/cards/diversos/diversos4.svg",
+    "descricao":"Qualquer descrição"
+  },{
+    "id":5,
+    "categoria":"diversos",
+    "nome":"Controle e console XYZ",
+    "preco":"R$ 60,00",
+    "imagem":"/assets/cards/diversos/diversos5.svg",
+    "descricao":"Qualquer descrição"
+  },{
+    "id":6,
+    "categoria":"diversos",
+    "nome":"Controle e console XYZ",
+    "preco":"R$ 60,00",
+    "imagem":"/assets/cards/diversos/diversos6.svg",
+    "descricao":"Qualquer descrição"
+  }]
+
+
+}
